@@ -1,0 +1,201 @@
+ # , Symbol , StartDate , Size(MB) , Description , Industry , Sector 
+1,AA,1/2/1998,66.13,"ALCOA, INC.",Aluminum,Basic Materials
+2,AAPL,1/2/1998,82.79,APPLE INC.,Personal Computers,Technology
+3,ABT,1/2/1998,62.1,ABBOTT LABORATORIES,Drug Manufacturers - Major,Healthcare
+4,ABX,1/2/1998,60.48,BARRICK GOLD CORPORATION,Gold,Basic Materials
+5,ACN,7/20/2001,44.27,ACCENTURE PLC,Information Technology Services,Technology
+6,AMAT,1/2/1998,75.09,APPLIED MATERIALS INC.,Semiconductor Equipment & Materials,Technology
+7,AMGN,1/2/1998,66.55,AMGEN INC.,Biotechnology,Healthcare
+8,AMZN,1/2/1998,70.34,AMAZON.COM INC.,Catalog & Mail Order Houses,Services
+9,ANR,2/15/2005,29.86,"ALPHA NATURAL RESOURCES, INC.",Industrial Metals & Minerals,Basic Materials
+10,APA,1/2/1998,57.84,APACHE CORP.,Independent Oil & Gas,Basic Materials
+11,APC,1/2/1998,56.78,ANADARKO PETROLEUM CORPORATION,Independent Oil & Gas,Basic Materials
+12,AXP,1/2/1998,63.22,AMERICAN EXPRESS COMPANY,Credit Services,Financial
+13,BA,1/2/1998,63.26,BOEING CO.,Aerospace/Defense Products & Services,Industrial Goods
+14,BAC,1/2/1998,77.12,BANK OF AMERICA CORPORATION,Regional - Mid-Atlantic Banks,Financial
+15,BAX,1/2/1998,56.98,BAXTER INTERNATIONAL INC.,Medical Instruments & Supplies,Healthcare
+16,BHI,1/2/1998,59.37,BAKER HUGHES INCORPORATED,Oil & Gas Equipment & Services,Basic Materials
+17,BHP,1/2/1998,42.79,BHP BILLITON LTD.,Industrial Metals & Minerals,Basic Materials
+18,BIDU,8/5/2005,35.13,"BAIDU, INC.",Internet Information Providers,Technology
+19,BK,1/2/1998,60.12,THE BANK OF NEW YORK MELLON CORPORATION,Asset Management,Financial
+20,BMY,1/2/1998,65.48,BRISTOL-MYERS SQUIBB COMPANY,Drug Manufacturers - Major,Healthcare
+21,BP,4/30/2007,26.42,BP PLC,Major Integrated Oil & Gas,Basic Materials
+22,BRCM,4/17/1998,68.39,BROADCOM CORP.,Semiconductor - Integrated Circuits,Technology
+23,BRK.A,5/16/2007,10.85,BERKSHIRE HATHAWAY INC.,Property & Casualty Insurance,Financial
+24,BTU,5/22/2001,42.27,PEABODY ENERGY CORP.,Industrial Metals & Minerals,Basic Materials
+25,C,1/2/1998,78.49,"CITIGROUP, INC.",Money Center Banks,Financial
+26,CAT,1/2/1998,64.38,CATERPILLAR INC.,Farm & Construction Machinery,Industrial Goods
+27,CELG,1/2/1998,54.35,CELGENE CORPORATION,Biotechnology,Healthcare
+28,CF,8/11/2005,27.96,"CF INDUSTRIES HOLDINGS, INC.",Agricultural Chemicals,Basic Materials
+29,CHK,1/2/1998,55.04,CHESAPEAKE ENERGY CORPORATION,Independent Oil & Gas,Basic Materials
+30,CL,1/2/1998,58.42,COLGATE-PALMOLIVE CO.,Personal Products,Consumer Goods
+31,CLF,1/2/1998,39.73,CLIFFS NATURAL RESOURCES INC.,Steel & Iron,Basic Materials
+32,CMCSA,1/2/1998,53.52,COMCAST CORPORATION,CATV Systems,Services
+33,CMI,12/10/2003,35.97,CUMMINS INC.,Diversified Machinery,Industrial Goods
+34,COF,1/2/1998,58.43,CAPITAL ONE FINANCIAL CORP.,Credit Services,Financial
+35,COH,10/6/2000,45.7,"COACH, INC.",Textile - Apparel Footwear & Accessories,Consumer Goods
+36,COP,9/3/2002,44.24,CONOCOPHILLIPS,Major Integrated Oil & Gas,Basic Materials
+37,CRM,6/23/2004,32.87,SALESFORCE.COM,Application Software,Technology
+38,CSCO,1/2/1998,81.12,"CISCO SYSTEMS, INC.",Networking & Communication Devices,Technology
+39,CSX,1/2/1998,57.85,CSX CORP.,Railroads,Services
+40,CTL,1/2/1998,50.95,"CENTURYLINK, INC.",Telecom Services - Domestic,Technology
+41,CVS,1/2/1998,60.53,CVS CAREMARK CORPORATION,Drug Stores,Services
+42,CVX,10/10/2001,48.43,CHEVRON CORPORATION,Major Integrated Oil & Gas,Basic Materials
+43,DD,1/2/1998,62.74,E. I. DU PONT DE NEMOURS AND COMPANY,Chemicals - Major Diversified,Basic Materials
+44,DE,1/2/1998,59.4,DEERE & COMPANY,Farm & Construction Machinery,Industrial Goods
+45,DELL,1/2/1998,70.58,DELL INC.,Personal Computers,Technology
+46,DIA,1/20/1998,64.99,SPDR DOW JONES INDUSTRIAL AVERAGE,State Street Global Advisors,Large Value
+47,DIS,1/2/1998,64.53,WALT DISNEY CO.,Entertainment - Diversified,Services
+48,DOW,1/2/1998,60.31,THE DOW CHEMICAL COMPANY,Chemicals - Major Diversified,Basic Materials
+49,DTV,3/13/2007,22.44,"DIRECTV, INC.",CATV Systems,Services
+50,DUK,1/2/1998,62.82,DUKE ENERGY CORPORATION,Electric Utilities,Utilities
+51,DVN,10/12/2004,33.14,DEVON ENERGY CORPORATION,Independent Oil & Gas,Basic Materials
+52,EBAY,9/24/1998,67.36,EBAY INC.,Catalog & Mail Order Houses,Services
+53,EEM,4/15/2003,37.27,ISHARES MSCI EMERGING MARKETS INDEX,iShares,Diversified Emerging Mkts
+54,EFA,8/27/2001,38.62,ISHARES MSCI EAFE INDEX,iShares,Foreign Large Blend
+55,EMC,1/2/1998,67.62,EMC CORPORATION,Data Storage Devices,Technology
+56,EMR,1/2/1998,58.91,EMERSON ELECTRIC CO.,Industrial Equipment & Components,Industrial Goods
+57,EOG,1/2/1998,53.52,"EOG RESOURCES, INC.",Independent Oil & Gas,Basic Materials
+58,EP,12/31/2001,47.32,EL PASO CORP.,Oil & Gas Pipelines,Basic Materials
+59,ESRX,1/2/1998,54.06,EXPRESS SCRIPTS INC.,Health Care Plans,Healthcare
+60,EWZ,3/13/2007,24.88,ISHARES MSCI BRAZIL INDEX,iShares,Latin America Stock
+61,EXC,10/23/2000,49.19,EXELON CORPORATION,Diversified Utilities,Utilities
+62,F,3/13/2007,30.73,FORD MOTOR CO.,Auto Manufacturers - Major,Consumer Goods
+63,FAS,11/19/2008,23.02,DIREXION DAILY FINANCIAL BULL 3X SHARES,Direxion Funds,Trading-Leveraged Equity
+64,FAZ,11/19/2008,22.19,DIREXION DAILY FINANCIAL BEAR 3X SHARES,Direxion Funds,Trading-Inverse Equity
+65,FCX,1/2/1998,59.11,FREEPORT-MCMORAN COPPER & GOLD INC.,Copper,Basic Materials
+66,FDX,1/2/1998,58.98,FEDEX CORPORATION,Air Delivery & Freight Services,Services
+67,FFIV,6/4/1999,51.21,"F5 NETWORKS, INC.",Application Software,Technology
+68,FXE,12/12/2005,18.19,CURRENCYSHARES EURO TRUST,Rydex|SGI,Currency
+69,FXI,10/12/2004,32.17,ISHARES FTSE CHINA 25 INDEX FUND,iShares,China Region
+70,GDX,5/23/2006,25.87,MARKET VECTORS GOLD MINERS ETF,Van Eck,Equity Precious Metals
+71,GE,1/2/1998,74.15,GENERAL ELECTRIC COMPANY,Diversified Machinery,Industrial Goods
+72,GG,3/12/1999,46.63,GOLDCORP INC.,Gold,Basic Materials
+73,GILD,1/2/1998,58.55,GILEAD SCIENCES INC.,Biotechnology,Healthcare
+74,GLD,11/18/2004,41.12,SPDR GOLD SHARES,State Street Global Advisors,Commodities Precious Metals
+75,GLW,1/2/1998,65.25,CORNING INC.,Diversified Electronics,Technology
+76,GM,11/18/2010,6.29,GENERAL MOTORS COMPANY,Auto Manufacturers - Major,Consumer Goods
+77,GMCR,1/2/1998,25.24,GREEN MOUNTAIN COFFEE ROASTERS INC.,Processed & Packaged Goods,Consumer Goods
+78,GOOG,8/19/2004,43.81,GOOGLE INC.,Internet Information Providers,Technology
+79,GS,5/4/1999,62.32,"THE GOLDMAN SACHS GROUP, INC.",Diversified Investments,Financial
+80,HAL,1/2/1998,65.89,HALLIBURTON COMPANY,Oil & Gas Equipment & Services,Basic Materials
+81,HD,1/2/1998,64.84,"THE HOME DEPOT, INC.",Home Improvement Stores,Services
+82,HES,3/13/2007,22.39,HESS CORPORATION,Oil & Gas Refining & Marketing,Basic Materials
+83,HON,1/2/1998,58.8,HONEYWELL INTERNATIONAL INC.,Aerospace/Defense Products & Services,Industrial Goods
+84,HPQ,1/2/1998,67.07,HEWLETT-PACKARD COMPANY,Diversified Computer Systems,Technology
+85,HYG,4/11/2007,14.39,ISHARES IBOXX $ HIGH YIELD CORPORATE BD,iShares,High Yield Bond
+86,IBM,1/2/1998,67.66,INTERNATIONAL BUSINESS MACHINES CORP.,Diversified Computer Systems,Technology
+87,INTC,1/2/1998,82.22,INTEL CORPORATION,Semiconductor - Broad Line,Technology
+88,ITUB,5/20/2009,12.67,ITAU UNIBANCO HOLDING S.A.,Foreign Money Center Banks,Financial
+89,IVV,11/30/2005,28.31,ISHARES S&P 500 INDEX,iShares,Large Blend
+90,IWM,5/26/2000,53.7,ISHARES RUSSELL 2000 INDEX,iShares,Small Blend
+91,IYR,11/30/2005,27.6,ISHARES DOW JONES US REAL ESTATE,iShares,Real Estate
+92,JCP,1/2/1998,58.42,"J. C. PENNEY COMPANY, INC.",Department Stores,Services
+93,JNJ,1/2/1998,63.85,JOHNSON & JOHNSON,Drug Manufacturers - Major,Healthcare
+94,JNPR,6/25/1999,62.6,"JUNIPER NETWORKS, INC.",Networking & Communication Devices,Technology
+95,JPM,1/2/1998,67.28,JPMORGAN CHASE & CO.,Money Center Banks,Financial
+96,KFT,6/14/2001,46.25,KRAFT FOODS INC.,Food - Major Diversified,Consumer Goods
+97,KO,1/2/1998,63.46,THE COCA-COLA COMPANY,Beverages - Soft Drinks,Consumer Goods
+98,KSS,1/2/1998,56.9,KOHL'S CORP.,Department Stores,Services
+99,LLY,1/2/1998,62.12,ELI LILLY & CO.,Drug Manufacturers - Major,Healthcare
+100,LMT,1/2/1998,57.8,LOCKHEED MARTIN CORPORATION,Aerospace/Defense Products & Services,Industrial Goods
+101,LOW,1/2/1998,63.02,LOWE'S COMPANIES INC.,Home Improvement Stores,Services
+102,LULU,7/30/2007,19.39,LULULEMON ATHLETICA INC.,Textile - Apparel Clothing,Consumer Goods
+103,LVS,12/16/2004,36.06,LAS VEGAS SANDS CORP.,Resorts & Casinos,Services
+104,LYB,10/14/2010,5.81,LYONDELLBASELL INDUSTRIES NV,Specialty Chemicals,Basic Materials
+105,M,10/14/1999,53.47,"MACY'S, INC.",Department Stores,Services
+106,MA,5/25/2006,27.7,MASTERCARD INCORPORATED,Business Services,Services
+107,MCD,1/2/1998,63.64,MCDONALD'S CORP.,Restaurants,Services
+108,MDT,1/2/1998,61.69,"MEDTRONIC, INC.",Medical Appliances & Equipment,Healthcare
+109,MDY,1/2/1998,51.06,SPDR S&P MIDCAP 400,State Street Global Advisors,Mid-Cap Blend
+110,MET,6/23/2000,49.47,"METLIFE, INC.",Life Insurance,Financial
+111,MHS,8/21/2003,37.29,"MEDCO HEALTH SOLUTIONS, INC.",Drugs Wholesale,Services
+112,MMM,1/2/1998,60.38,3M CO.,Conglomerates,Conglomerates
+113,MO,1/2/1998,69.39,ALTRIA GROUP INC.,Cigarettes,Consumer Goods
+114,MON,10/24/2000,46.22,MONSANTO CO.,Agricultural Chemicals,Basic Materials
+115,MOS,10/25/2004,32.9,THE MOSAIC COMPANY,Specialty Chemicals,Basic Materials
+116,MRK,1/2/1998,64.44,MERCK & CO. INC.,Drug Manufacturers - Major,Healthcare
+117,MRO,1/2/1998,60,MARATHON OIL CORPORATION,Oil & Gas Refining & Marketing,Basic Materials
+118,MS,1/17/2006,30.91,MORGAN STANLEY,Investment Brokerage - National,Financial
+119,MSFT,1/2/1998,77.76,MICROSOFT CORPORATION,Application Software,Technology
+120,MU,1/2/1998,65.24,MICRON TECHNOLOGY INC.,Semiconductor- Memory Chips,Technology
+121,NEM,1/2/1998,60.74,NEWMONT MINING CORP.,Gold,Basic Materials
+122,NFLX,5/29/2002,42.62,"NETFLIX, INC.",Music & Video Stores,Services
+123,NKE,1/2/1998,58.39,NIKE INC.,Textile - Apparel Footwear & Accessories,Consumer Goods
+124,NOV,3/15/2005,31.31,"NATIONAL OILWELL VARCO, INC.",Oil & Gas Equipment & Services,Basic Materials
+125,NTAP,1/2/1998,62.58,"NETAPP, INC.",Data Storage Devices,Technology
+126,NVDA,1/22/1999,63.12,NVIDIA CORPORATION,Semiconductor - Specialized,Technology
+127,NWSA,12/29/2008,15.01,NEWS CORP.,Entertainment - Diversified,Services
+128,OIH,2/26/2001,44.33,MARKET VECTORS OIL SERVICES ETF,Van Eck,Equity Energy
+129,ORCL,1/2/1998,75.23,ORACLE CORPORATION,Application Software,Technology
+130,OXY,1/2/1998,57.9,OCCIDENTAL PETROLEUM CORPORATION,Major Integrated Oil & Gas,Basic Materials
+131,PBR,8/10/2000,46.36,PETROLEO BRASILEIRO S.A.- PETRO,,
+132,PCLN,3/31/1999,53.52,PRICELINE.COM INCORPORATED,General Entertainment,Services
+133,PEP,1/2/1998,62.57,"PEPSICO, INC.",Beverages - Soft Drinks,Consumer Goods
+134,PFE,1/2/1998,70.29,PFIZER INC.,Drug Manufacturers - Major,Healthcare
+135,PG,1/2/1998,63.53,PROCTER & GAMBLE CO.,Personal Products,Consumer Goods
+136,PM,3/31/2008,17.7,"PHILIP MORRIS INTERNATIONAL, INC.",Cigarettes,Consumer Goods
+137,PNC,1/2/1998,55.69,PNC FINANCIAL SERVICES GROUP INC.,Money Center Banks,Financial
+138,POT,1/2/1998,46.85,"POTASH CORP. OF SASKATCHEWAN, INC.",Agricultural Chemicals,Basic Materials
+139,PRU,12/14/2001,44.28,"PRUDENTIAL FINANCIAL, INC.",Life Insurance,Financial
+140,PSE,5/5/2008,5.28,PIONEER SOUTHWEST ENERGY PARTNERS L.P.,Oil & Gas Drilling & Exploration,Basic Materials
+141,QCOM,1/2/1998,70.59,QUALCOMM INCORPORATED,Communication Equipment,Technology
+142,QLD,6/22/2006,28.58,PROSHARES ULTRA QQQ,ProShares,Trading-Leveraged Equity
+143,QQQ,3/10/1999,81.2,POWERSHARES QQQ,PowerShares,Large Growth
+144,RIG,1/2/1998,62.28,TRANSOCEAN LTD.,Oil & Gas Drilling & Exploration,Basic Materials
+145,RIMM,2/4/1999,65.3,RESEARCH IN MOTION LIMITED,,
+146,RIO,2/11/2010,10.16,RIO TINTO PLC,Industrial Metals & Minerals,Basic Materials
+147,SBUX,1/2/1998,65.64,STARBUCKS CORPORATION,Specialty Eateries,Services
+148,SDS,7/13/2006,33.84,PROSHARES ULTRASHORT S&P500,ProShares,Trading-Inverse Equity
+149,SINA,4/30/2007,21.5,SINA CORP.,Internet Software & Services,Technology
+150,SLB,1/2/1998,64.25,SCHLUMBERGER LIMITED,Oil & Gas Equipment & Services,Basic Materials
+151,SLV,4/28/2006,30.21,ISHARES SILVER TRUST,iShares,Commodities Precious Metals
+152,SNDK,1/2/1998,61.47,SANDISK CORP.,Semiconductor- Memory Chips,Technology
+153,SO,1/2/1998,58.62,SOUTHERN COMPANY,Electric Utilities,Utilities
+154,SPG,1/2/1998,48.49,SIMON PROPERTY GROUP INC.,REIT - Retail,Financial
+155,SPY,1/2/1998,92.25,SPDR S&P 500,State Street Global Advisors,Large Blend
+156,SSO,6/21/2006,29.54,PROSHARES ULTRA S&P500,ProShares,Trading-Leveraged Equity
+157,STX,12/12/2002,41.53,SEAGATE TECHNOLOGY PLC,Data Storage Devices,Technology
+158,T,1/2/1998,66.32,"AT&T, INC.",Telecom Services - Domestic,Technology
+159,TEVA,8/23/1999,52.63,TEVA PHARMACEUTICAL INDUSTRIES LIMITED,Drug Manufacturers - Other,Healthcare
+160,TGT,1/31/2000,53.53,TARGET CORP.,"Discount, Variety Stores",Services
+161,TLT,7/31/2002,32.9,ISHARES BARCLAYS 20+ YEAR TREAS BOND,iShares,Long Government
+162,TNA,11/19/2008,19.95,DIREXION DAILY SMALL CAP BULL 3X SHARES,Direxion Funds,Trading-Leveraged Equity
+163,TRV,2/27/2007,22.25,"THE TRAVELERS COMPANIES, INC.",Property & Casualty Insurance,Financial
+164,TWX,1/2/1998,65.73,TIME WARNER INC.,Entertainment - Diversified,Services
+165,TXN,1/2/1998,66.06,TEXAS INSTRUMENTS INC.,Semiconductor - Broad Line,Technology
+166,TZA,11/19/2008,21.6,DIREXION DAILY SMALL CAP BEAR 3X SHARES,Direxion Funds,Trading-Inverse Equity
+167,UNH,1/2/1998,59.04,"UNITEDHEALTH GROUP, INC.",Health Care Plans,Healthcare
+168,UNP,1/2/1998,56.54,UNION PACIFIC CORPORATION,Railroads,Services
+169,UPRO,6/25/2009,12.22,PROSHARES ULTRAPRO S&P500,ProShares,Trading-Leveraged Equity
+170,UPS,11/10/1999,52.54,"UNITED PARCEL SERVICE, INC.",Air Delivery & Freight Services,Services
+171,USB,1/2/1998,61.41,U.S. BANCORP,Regional - Midwest Banks,Financial
+172,USO,4/12/2006,30.05,UNITED STATES OIL,United States Commodity Funds LLC,Commodities Energy
+173,UTX,1/2/1998,59.41,UNITED TECHNOLOGIES CORP.,Conglomerates,Conglomerates
+174,V,3/19/2008,19.43,"VISA, INC.",Business Services,Services
+175,VALE,5/4/2009,13.81,VALE S.A.,Industrial Metals & Minerals,Basic Materials
+176,VLO,1/2/1998,54.45,VALERO ENERGY CORPORATION,Oil & Gas Refining & Marketing,Basic Materials
+177,VOD,1/2/1998,58.79,VODAFONE GROUP PLC,,
+178,VWO,3/10/2005,24.98,VANGUARD MSCI EMERGING MARKETS ETF,Vanguard,Diversified Emerging Mkts
+179,VXX,1/30/2009,16.93,IPATH S&P 500 VIX SHORT-TERM FUTURES ETN,iPath,Volatility
+180,VZ,7/3/2000,53.83,VERIZON COMMUNICATIONS INC.,Telecom Services - Domestic,Technology
+181,WAG,1/2/1998,60.93,WALGREEN CO.,Drug Stores,Services
+182,WFC,1/2/1998,67.99,WELLS FARGO & COMPANY,Money Center Banks,Financial
+183,WMB,1/2/1998,62.12,"WILLIAMS COMPANIES, INC.",Oil & Gas Pipelines,Basic Materials
+184,WMT,1/2/1998,64.93,WAL-MART STORES INC.,"Discount, Variety Stores",Services
+185,WYNN,10/25/2002,38.59,WYNN RESORTS LTD.,Resorts & Casinos,Services
+186,X,1/2/1998,58.24,UNITED STATES STEEL CORP.,Steel & Iron,Basic Materials
+187,XLB,12/22/1998,34.66,MATERIALS SELECT SECTOR SPDR,State Street Global Advisors,Natural Resources
+188,XLE,12/22/1998,41.64,ENERGY SELECT SECTOR SPDR,State Street Global Advisors,Equity Energy
+189,XLF,12/22/1998,46.77,FINANCIAL SELECT SECTOR SPDR,State Street Global Advisors,Financial
+190,XLI,12/22/1998,30.93,INDUSTRIAL SELECT SECTOR SPDR,State Street Global Advisors,Industrials
+191,XLK,12/22/1998,43.31,TECHNOLOGY SELECT SECTOR SPDR,State Street Global Advisors,Technology
+192,XLP,12/22/1998,31.74,CONSUMER STAPLES SELECT SECTOR SPDR,State Street Global Advisors,Consumer Defensive
+193,XLU,12/22/1998,36.36,UTILITIES SELECT SECTOR SPDR,State Street Global Advisors,Utilities
+194,XLV,12/22/1998,31.57,HEALTH CARE SELECT SECTOR SPDR,State Street Global Advisors,Health
+195,XLY,12/22/1998,29.52,CONSUMER DISCRET SELECT SECTOR SPDR,State Street Global Advisors,Consumer Cyclical
+196,XOM,12/1/1999,59.25,EXXON MOBIL CORPORATION,Major Integrated Oil & Gas,Basic Materials
+197,XOP,6/22/2006,17.12,SPDR S&P OIL & GAS EXPLORATION & PROD,State Street Global Advisors,Equity Energy
+198,XRT,6/22/2006,20.15,SPDR S&P RETAIL,State Street Global Advisors,Consumer Cyclical
+199,YHOO,1/2/1998,73.57,YAHOO! INC.,Internet Information Providers,Technology
+200,YUM,1/2/1998,56.09,"YUM! BRANDS, INC.",Restaurants,Services
